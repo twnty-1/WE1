@@ -7,3 +7,7 @@ See: https://github.com/twnty-1/WE1/issues/1
 ## L02 - Elements And Nesting
 
 See: https://github.com/twnty-1/WE1/issues/2
+
+## L03 - Getting Started With CSS
+
+See: https://github.com/twnty-1/WE1/issues/3
